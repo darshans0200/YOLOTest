@@ -31,11 +31,11 @@ def class_text_to_int(row_label):
     if row_label == 'setcurd':
         return 1
     if row_label == 'curd':
-        return 1
+        return 2
     if row_label == 'tablebutter':
-        return 1
+        return 3
     if row_label == 'paneer':
-        return 1
+        return 4
     else:
         None
 
